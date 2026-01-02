@@ -1,0 +1,12 @@
+src/AspireApp.ApiService/obj/*
+src/AspireApp.ApiService/bin/*
+
+src/AspireApp.AppHost/obj/*
+src/AspireApp.AppHost/bin/*
+
+src/AspireApp.ServiceDefaults/obj/*
+src/AspireApp.ServiceDefaults/bin/*
+
+src/AspireApp.Web/obj/*
+src/AspireApp.Web/bin/*
+
